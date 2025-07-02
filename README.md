@@ -72,4 +72,8 @@ Fine-Tuned On: Custom summarization dataset on Google Colab
 NER Model: SciSpacy - en_ner_bc5cdr_md
 
 
+## License
+
+This project is licensed under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) License.  
+You are free to use, share, and modify the code **non-commercially**, with proper attribution.
 
