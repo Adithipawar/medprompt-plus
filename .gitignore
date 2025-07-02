@@ -1,0 +1,7 @@
+venv/
+venv310/
+__pycache__/
+*.zip
+*.pyc
+.DS_Store
+.python-version
